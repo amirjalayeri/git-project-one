@@ -4,3 +4,6 @@ body{
 header{
   color: red;
 }
+footer{
+  border-top: 1px solid black;
+}
